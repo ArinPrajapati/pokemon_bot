@@ -1,6 +1,6 @@
-Scream Tail, L84
-Frosmoth, L82, M
-Regieleki, L79
-Glimmora, L75, M
-Floatzel, L86, F
-Okidogi, L77, M
+Slot 0: Toxapex, L82, F
+Slot 1: Swampert, L83, F
+Slot 2: Iron Moth, L78
+Slot 3: Garganacl, L80, F
+Slot 4: Hitmontop, L88, M
+Slot 5: Mamoswine, L81, F

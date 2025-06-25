@@ -1,6 +1,6 @@
-Hypno, L95, F
-Greedent, L86, F
-Flamigo, L82, M
-Kricketune, L99, F
-Dragalge, L88, F
-Clodsire, L81, M
+Slot 0: Vaporeon, L86, F
+Slot 1: Regidrago, L77
+Slot 2: Toxicroak, L84, M
+Slot 3: Hypno, L95, F
+Slot 4: Raging Bolt, L78
+Slot 5: Oricorio-Pom-Pom, L82, F
