@@ -1,0 +1,6 @@
+Hypno, L95, F
+Greedent, L86, F
+Flamigo, L82, M
+Kricketune, L99, F
+Dragalge, L88, F
+Clodsire, L81, M
